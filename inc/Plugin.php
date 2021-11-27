@@ -284,8 +284,10 @@ class Plugin {
 			'ewww_webp_subscriber',
 			'optimus_webp_subscriber',
 			'adthrive',
+			'autoptimize',
 			'wp-meteor',
 			'revolution_slider_subscriber',
+			'wordfence_subscriber',
 		];
 
 		$host_type = HostResolver::get_host_service();
